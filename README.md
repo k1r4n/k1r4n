@@ -11,7 +11,7 @@
 
 ## Arsenal
 
-Exploring the endless posibilities of `HTML, CSS, JavaScript, ReactJS, NodeJS, D3JS, TypeScript, NextJS`.<br />
+Exploring the endless posibilities of `HTML, CSS, JavaScript, ReactJS, NodeJS, D3JS, TypeScript and NextJS`.<br />
 Supported by `Webpack, Docker, AWS, SASS, NPM, Yarn, Jest,` etc.
 
 ## Future Scope
